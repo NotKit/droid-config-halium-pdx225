@@ -1,8 +1,8 @@
-%package -n patterns-sailfish-device-configuration-halium-qx1050
-Summary: Sailfish HW Adaptation halium-qx1050
+%package -n patterns-sailfish-device-configuration-halium-pdx225
+Summary: Sailfish HW Adaptation halium-pdx225
 
-Requires: patterns-sailfish-device-configuration-common-halium-qx1050
-Requires: patterns-sailfish-device-adaptation-halium-qx1050
+Requires: patterns-sailfish-device-configuration-common-halium-pdx225
+Requires: patterns-sailfish-device-adaptation-halium-pdx225
 
 Requires: patterns-sailfish-cellular-apps
 Requires: patterns-sailfish-applications
@@ -54,7 +54,7 @@ Requires: sailfish-devicelock-fpd
 #WLAN Suspend
 Requires: sailfish-connman-plugin-suspend
 
-%description -n patterns-sailfish-device-configuration-halium-qx1050
-Pattern with packages for halium-qx1050 configurations
+%description -n patterns-sailfish-device-configuration-halium-pdx225
+Pattern with packages for halium-pdx225 configurations
 
-%files -n patterns-sailfish-device-configuration-halium-qx1050
+%files -n patterns-sailfish-device-configuration-halium-pdx225

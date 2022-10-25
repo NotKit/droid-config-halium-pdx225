@@ -1,16 +1,16 @@
-%package -n patterns-sailfish-device-adaptation-halium-qx1050
-Summary: Sailfish HW Adaptation halium-qx1050
+%package -n patterns-sailfish-device-adaptation-halium-pdx225
+Summary: Sailfish HW Adaptation halium-pdx225
 
-#Requires: droid-hal-halium-qx1050
-#Requires: droid-hal-halium-qx1050-img-boot
-#Requires: droid-hal-halium-qx1050-kernel-modules
-Requires: droid-config-halium-qx1050-sailfish
-Requires: droid-config-halium-qx1050-pulseaudio-settings
-Requires: droid-config-halium-qx1050-policy-settings
-Requires: droid-config-halium-qx1050-preinit-plugin
-Requires: droid-config-halium-qx1050-flashing
-Requires: droid-config-halium-qx1050-bluez5
-Requires: droid-hal-version-halium-qx1050
+#Requires: droid-hal-halium-pdx225
+#Requires: droid-hal-halium-pdx225-img-boot
+#Requires: droid-hal-halium-pdx225-kernel-modules
+Requires: droid-config-halium-pdx225-sailfish
+Requires: droid-config-halium-pdx225-pulseaudio-settings
+Requires: droid-config-halium-pdx225-policy-settings
+Requires: droid-config-halium-pdx225-preinit-plugin
+Requires: droid-config-halium-pdx225-flashing
+Requires: droid-config-halium-pdx225-bluez5
+Requires: droid-hal-version-halium-pdx225
 
 Requires: qt5-plugin-generic-evdev
 
@@ -86,7 +86,7 @@ Requires: geoclue-provider-hybris
 # For mounting SD card automatically
 Requires: sd-utils
 
-%description -n patterns-sailfish-device-adaptation-halium-qx1050
-Pattern with packages for halium-qx1050 HW Adaptation
+%description -n patterns-sailfish-device-adaptation-halium-pdx225
+Pattern with packages for halium-pdx225 HW Adaptation
 
-%files -n patterns-sailfish-device-adaptation-halium-qx1050
+%files -n patterns-sailfish-device-adaptation-halium-pdx225
